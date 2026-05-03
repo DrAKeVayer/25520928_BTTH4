@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BaiTap1/BaiTap1.vcxproj" Id="a48db155-aadd-4473-b2fc-6221d4355325" />
+  <Project Path="BaiTap2/BaiTap2.vcxproj" Id="4f961945-156c-4912-b576-39c7ee894da2" />
+  <Project Path="BaiTap3/BaiTap3.vcxproj" Id="6ff8c47d-028c-4035-8903-a8c16aaa2a87" />
+  <Project Path="BaiTap4/BaiTap4.vcxproj" Id="629ebb5f-6d8c-4282-ad65-9e30904c473f" />
+  <Project Path="BaiTap5/BaiTap5.vcxproj" Id="4820dfe9-d8d5-4b37-8854-71e12c95c9a6" />
+  <Project Path="BaiTap6/BaiTap6.vcxproj" Id="e7171f15-a6c9-416e-8d04-0c8232afada7" />
+  <Project Path="BaiTap7/BaiTap7.vcxproj" Id="f490c550-d319-4814-abce-3ebaf57e4f21" />
+</Solution>
